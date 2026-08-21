@@ -1,1 +1,1 @@
-Objects such as asteroids and comets that come into proximity with the Earth are called near-Earth objects (NEOs). The National Aeronautics and Space Administration (NASA) tracks and catalogues all NEOs that are at least 1 kilometer wide. Data on NEOs can be found on the NASA website. The following table gives the relative velocities in kilometers per second (km/s), arranged in increasing order, for the NEO close to the earth during June 2013.
+These files are examples used to explore the colab–python interactions in one-variable data sets.
